@@ -18,6 +18,11 @@ This project is a web application for Delani studio that shows details about the
 - CSS
 - JAVASCRIPT
 
+### Installing
+
+- Clone project from this repository - https://github.com/naniyule/delani_studio
+- Make any adjustments as seen fit on the html or css files.
+
 
 ## Copyright and license Information
 
